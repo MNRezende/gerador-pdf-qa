@@ -14,7 +14,7 @@ O objetivo é fornecer uma documentação visual e prática para equipes de Qual
 
  - Python 3.x 
  - fpdf2 – biblioteca para geração de PDFs.
- - 
+ 
 📂 Estrutura do Script
 
  - Título: "Template de Abertura de Issue (QA) + Checklist de Validação Pós-Fix"
